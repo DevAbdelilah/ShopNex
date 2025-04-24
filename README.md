@@ -1,13 +1,14 @@
-# ShopNex - An Ecommerce App 🛍️ #
+# ShopNex - An Ecommerce App 🛍️
 
-## Live Link : ##
+## Live Link :
+
 [shopnex.vercel.app](https://shopnex.vercel.app/)
 
-## About The Project ##
+## About The Project
 
 Shopnex is your one-stop destination for fashionable clothing for the entire family. Discover a wide selection of men's, women's, and kids' apparel, ensuring that everyone can find the perfect style and fit. Shop with confidence and convenience at Shopnex for all your clothing needs.
 
-## Features - ##
+## Features -
 
 🏠 **Home page :** The main landing page for your platform.
 
@@ -17,19 +18,15 @@ Shopnex is your one-stop destination for fashionable clothing for the entire fam
 
 🛒 **Cart Feature :** Add, remove, and purchase products.
 
-## Built With - ##
-  * React JS :atom_symbol:
+## Built With -
 
-## Getting Started :octocat: ##
+- React JS :atom_symbol:
+
+## Getting Started :octocat:
+
 ```
 $ git clone https://github.com/JiyaGupta-cs/ShopNex.git
 $ cd ShopNex/
 $ npm install
-$ npm start 
+$ npm start
 ```
-
-
-## Contributing Guidelines :octocat: ##
-
-[https://github.com/JiyaGupta-cs/mytwit/blob/master/contributing.md](https://github.com/JiyaGupta-cs/shopnex/blob/master/contributing.md)
-
