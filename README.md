@@ -2,7 +2,7 @@
 
 ## Live Link :
 
-[shopnex.vercel.app](https://shopnex.vercel.app/)
+https://shop-nex-ten.vercel.app/
 
 ## About The Project
 
